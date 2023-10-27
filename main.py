@@ -112,7 +112,7 @@ if __name__ == '__main__':
     move(others)
 
     if count == 0:
-        print("\n\t everything is sorted!!!")
+        print("\n\t every file is sorted!!!")
     elif count == 1:
         print("1 type of file has sorted!!!")
     else:
